@@ -61,3 +61,23 @@ button:hover {
 .delete-btn:hover {
   background-color: #c0392b;
 }
+
+.contact-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f9fafb;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  margin: 2px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.actions button {
+  margin-left: 5px;
+}
